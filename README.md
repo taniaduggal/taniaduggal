@@ -10,9 +10,9 @@
 
 - 📝 I frequently write articles on DevOps including technologies.
 
-- 📫 How to reach me **taniaduggal60@gmail.com**
+- 📫 Email me @ **taniaduggal60@gmail.com**
 
-- ⚡ Fun fact: **I am Foody.**
+- ⚡ Fun fact: **I am a Foodie .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
