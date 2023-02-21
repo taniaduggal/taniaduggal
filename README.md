@@ -1,29 +1,31 @@
-<h1 align="center">Hi 👋, I'm Tania Duggal</h1>
-<h3 align="center">Here , To explore myself</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif">
+![](https://komarev.com/ghpvc/?username=taniaduggal&color=blue&style=plastic)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taniaduggal&label=Profile%20views&color=0e75b6&style=flat" alt="taniaduggal" /> </p>
+![download](https://user-images.githubusercontent.com/86051118/219541058-2333a156-367a-4a4a-83d7-082176d96d96.png)
 
-<p align="left"> <a href="https://twitter.com/taniadtwt" target="blank"><img src="https://img.shields.io/twitter/follow/taniadtwt?logo=twitter&style=for-the-badge" alt="taniadtwt" /></a> </p>
+## What do I do?
 
-- 🌱 I’m currently learning **DevOps Technologies.**
+- ✍️Technical Writer at SMIIT London
+- ☸️Contributor at [Kubernetes](https://kubernetes.io/) 
+- 🧑‍🎓Ambassador at [Kubesimplify](https://kubesimplify.com/)
+- 
 
-- 📝 I frequently write articles on DevOps including technologies.
+---
 
-- 📫 Email me **taniaduggal60@gmail.com**
+### 📚 Latest Blog Posts:
+  <!-- BLOG-POST-LIST:START -->
+  - [DevOps peoject- Deploying java application using dockerandkubernetes ](https://blog.kubesimplify.com/deploying-java-application-using-docker-and-kubernetes-devops-project)
+  - [Getting started with DevOps- Linux part-1](https://blog.wemakedevs.org/linux-required-to-get-started-with-devops-part-1)
+  - [Learn Linux Series- part 2](https://blog.wemakedevs.org/learn-linux-series-part-2)
+  - [Overview of CNCF Landscape](https://duggaltania.hashnode.dev/cncf-landscape)
+  - [Getting Started with Kubescape](https://duggaltania.hashnode.dev/getting-started-with-kubescape)
+  <!-- BLOG-POST-LIST:END -->
+  
+  ---
 
-- ⚡ Fun fact: I am Foodie 
+<!--  -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/taniadtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taniadtwt" height="30" width="40" /></a>
-<a href="https://hashnode.com/@taniaduggal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tannu469" height="30" width="40" /></a>
-</p>
+**🔗 Reach out to me on:**
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taniaduggal&show_icons=true&locale=en" alt="taniaduggal" /></p>
-
+- [LinkedIn](https://www.linkedin.com/in/tania-duggal-07a297220/)
+- [Twitter](https://twitter.com/taniadtwt)
+- Gmail: taniaduggal60@gmail.com
