@@ -1,9 +1,9 @@
 
 
-## What do I do?
-
+## About me
+- 🚢 DevOps Enthusiast
 - ✍️Technical Writer at SMIIT London
-- ☸️Contributor at [Kubernetes](https://kubernetes.io/) 
+- ☸️Memeber at [Kubernetes](https://kubernetes.io/) 
 - 🧑‍🎓Ambassador at [Kubesimplify](https://kubesimplify.com/)
 - 
 
