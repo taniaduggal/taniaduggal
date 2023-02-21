@@ -5,7 +5,7 @@
 - ✍️Technical Writer at SMIIT London
 - ☸️Memeber at [Kubernetes](https://kubernetes.io/) 
 - 🧑‍🎓Ambassador at [Kubesimplify](https://kubesimplify.com/)
-- 
+ 
 
 ---
 
