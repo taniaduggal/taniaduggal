@@ -3,7 +3,7 @@
 ## About me
 - 🚢 DevOps Enthusiast
 - ✍️Technical Writer at SMIIT London
-- ☸️Memeber at [Kubernetes](https://kubernetes.io/) 
+- ☸️Member at [Kubernetes](https://kubernetes.io/) 
 - 🧑‍🎓Ambassador at [Kubesimplify](https://kubesimplify.com/)
  
 
