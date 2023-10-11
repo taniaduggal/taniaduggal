@@ -2,9 +2,9 @@
 
 ## About me
 - 🚢 DevOps Enthusiast
-- ✍️Technical Writer at SMIIT London
-- ☸️Member at [Kubernetes](https://kubernetes.io/) 
-- 🧑‍🎓Ambassador at [Kubesimplify](https://kubesimplify.com/)
+- ✍️DevOps Intern at Imegh
+- ☸️K8s Docs Shadow and Member at [Kubernetes](https://kubernetes.io/) 
+
  
 
 ---
