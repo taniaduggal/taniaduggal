@@ -1,9 +1,10 @@
 # Hi 👋, I am Tania
 
 ## About me
-- 🚢 DevOps Enthusiast
-- ✍️DevOps Intern at Imegh
-- ☸️K8s Docs Shadow and Member at [Kubernetes](https://kubernetes.io/) 
+ - 🔭 I’m currently working on Interview Prep and learning Golang
+ - 🚢 DevOps Enthusiast
+ - ✍️DevOps Intern at Imegh and OnePane
+ - ☸️K8s Docs Shadow and Member at [Kubernetes](https://kubernetes.io/) 
 
  
 
@@ -11,6 +12,7 @@
 
 ### 📚 Latest Blog Posts:
   <!-- BLOG-POST-LIST:START -->
+  - [Building Your Own IDP: Guide to Getting Started with Backstage](https://www.onepane.ai/blog/building-your-own-idp-guide-to-getting-started-with-backstage/)
   - [Validating K8s configuration files to prevent misconfiguration](https://www.civo.com/learn/validating-k8s-configuration-files)
   - [DevOps peoject- Deploying java application using dockerandkubernetes ](https://blog.kubesimplify.com/deploying-java-application-using-docker-and-kubernetes-devops-project)
   - [Getting started with DevOps- Linux part-1](https://blog.wemakedevs.org/linux-required-to-get-started-with-devops-part-1)
