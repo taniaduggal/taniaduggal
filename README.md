@@ -2,7 +2,7 @@
 
 ## About me
  - 🔭 I’m currently working on Interview Prep and learning Golang
- - 🚢 DevOps Enthusiast
+ - 🚢 DevOps Enthusiast, K8s Release Shadow
  - ✍️DevOps Intern at Imegh and OnePane
  - ☸️K8s Docs Shadow and Member at [Kubernetes](https://kubernetes.io/) 
 
