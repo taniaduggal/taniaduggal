@@ -13,7 +13,7 @@
 
 ### 📚 Latest Blog Posts:
   <!-- BLOG-POST-LIST:START -->
-  - [Click here to see the writing portfolio](https://writing-portfolio-tania.netlify.app/)
+  - [Click here to see the writing portfolio](https://taniaduggal.tech/)
   - [Kubernetes Horizontal Pod Autoscaler (HPA)](https://www.perfectscale.io/blog/kubernetes-horizontal-pod-autoscaler-hpa)
   - [ImagePullBackOff: Troubleshooting Tips and Tricks](https://www.perfectscale.io/blog/imagepullbackoff-troubleshooting)
   - [The Ultimate Guide: Kubernetes CreateContainerConfigError and CreateContainerError](https://www.perfectscale.io/blog/createcontainerconfigerror)
